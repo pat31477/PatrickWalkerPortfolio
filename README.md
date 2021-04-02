@@ -56,11 +56,18 @@ Github:
 
 ![body-section](./Assets/Images/Connect_Github.gif?raw=true "Body Section")
 
-### View the rest of my page by scrolling up or down.
+### View/Download/Print resume`.
 
-Desktop screen:
+Resume`:
 
-![body-section](./Assets/Images/SmallScreenScroll.PNG?raw=true "Body Section")
+![body-section](./Assets/Images/Resume`.gif?raw=true "Body Section")
+
+### Contact via Email.
+
+Click the contact button to email me.
+
+![body-section](./Assets/Images/Navigation_Contact.JPG?raw=true "Body Section")
+
 
 
 <a name="contributions"></a>
@@ -68,7 +75,6 @@ Desktop screen:
 Thank you to the following for their suggestions and insights.
 
 
-* Steve Marsh (https://github.com/Imaparadox)
 
 * Ben Durham (https://github.com/bdurham227)
 
