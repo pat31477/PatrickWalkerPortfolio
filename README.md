@@ -72,17 +72,9 @@ Click the contact button to email me.
 
 <a name="contributions"></a>
 ## 4. Contributions
-Thank you to the following for their suggestions and insights.
-
-
-
-* Ben Durham (https://github.com/bdurham227)
+Thank you to the following for suggestions, insights, and making sure I didn't miss anything!
 
 * Gabe Thomas (https://github.com/samohtebag)
-
-* Jason Barbanel (https://github.com/Jbarbss)
-
-* Takuya Matsumoto (https://github.com/TakuyaMats)
 
 <a name="licensing"></a>
 ## 5. Licensing
