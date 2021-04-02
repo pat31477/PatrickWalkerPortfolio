@@ -66,7 +66,7 @@ Resume`:
 
 Click the contact button to email me.
 
-![body-section](./Assets/Images/Navigation_Contact.JPG?raw=true "Body Section")
+![body-section](./Assets/Images/Navigation_Contact.jpg?raw=true "Body Section")
 
 
 
