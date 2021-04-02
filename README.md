@@ -38,25 +38,27 @@ Github Repository: https://github.com/pat31477/PatrickWalkerPortfolio
 ## 3. Usage Tips
 
 
-### Use the controls in the top right to visit the different sections of the web page.
+### Use the controls in the top left to view About, Portfolio, and Contact.
 
-Desktop screen:
+Navigation Controls:
 
-![nav-menu](./Assets/Images/Nav-Menu.png?raw=true "Navigational Menu")
-
-Smaller devices screen example:
-
-![nav-menu](./Assets/Images/SmallScreenNav.png?raw=true "Navigational Menu")
+![nav-menu](./Assets/Images/Navigation_Controls.JPG?raw=true "Navigational Menu")
 
 
+
+### Connect with on LinkedIn and or Github.
+
+LinkedIn:
+
+![body-section](./Assets/Images/Connect_LinkedIn.gif?raw=true "Body Section")
+
+Github:
+
+![body-section](./Assets/Images/Connect_Github.gif?raw=true "Body Section")
 
 ### View the rest of my page by scrolling up or down.
 
 Desktop screen:
-
-![body-section](./Assets/Images/FullScreenWebPage.png?raw=true "Body Section")
-
-Smaller devices screen example:
 
 ![body-section](./Assets/Images/SmallScreenScroll.PNG?raw=true "Body Section")
 
