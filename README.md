@@ -30,9 +30,9 @@ Profile Page:
 ### Click link to open in your browser.
 
 
-[github pages site] https://pat31477.github.io/PWProfessionalPortfolio/
+Deployed Portfolio: https://pat31477.github.io/PatrickWalkerPortfolio/
 
-[github repository site] https://github.com/pat31477/PWProfessionalPortfolio
+Github Repository: https://github.com/pat31477/PatrickWalkerPortfolio
 
 <a name="usage"></a>
 ## 3. Usage Tips
